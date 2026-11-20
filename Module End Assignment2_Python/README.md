@@ -45,14 +45,14 @@ Calculated the correlation coefficient between age and salary.
 Used a scatter plot to visualize the relationship.
 Insight: The scatter plot shows variations in salary across different age groups. The correlation coefficient was used to investigate the linear relationship between age and salary.
 
-5. Visualizations
-The project includes:
+5. Visualizations:
+The project includes:-
 
-Bar chart – Employee distribution across teams.
-Bar chart – Employee distribution by position.
-Bar chart – Employee distribution by age group.
-Bar charts – Salary expenditure by team and position.
-Scatter plot – Relationship between age and salary.
+*Bar chart – Employee distribution across teams.
+*Bar chart – Employee distribution by position.
+*Bar chart – Employee distribution by age group.
+*Bar charts – Salary expenditure by team and position.
+8Scatter plot – Relationship between age and salary.
 
-7. Conclusion
+7. Conclusion:
 This project helped explore employee distribution across teams, positions and age groups, analyze salary expenditure and investigate the relationship between age and salary using Python data analysis and visualization techniques.
