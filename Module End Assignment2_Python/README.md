@@ -3,22 +3,16 @@ Employee Data Analysis
 This project focuses on analyzing an employee dataset from ABC company using Python. The objective is to explore employee distribution, age groups, salary expenditure and the relationship between age and salary.
 
 2. Dataset Description:
-The dataset contains 458 employee records with information such as:
-
-Team
-Position
-Age
-Salary
-College
-Height
+The dataset contains 458 employee records with information such as:-
+Team,Position,Age,Salary,College and Height.
 3. Data Preprocessing:
 The following preprocessing steps were performed:
 
-Inspected the dataset and checked its structure.
-Identified missing values in different columns.
-Replaced the incorrect values in the Height column with randomly generated numbers between 150 and 180, as instructed.
-Identified 84 missing values in College and 11 missing values in Salary.
-Retained the missing values without replacement.
+*Inspected the dataset and checked its structure.
+*Identified missing values in different columns.
+*Replaced the incorrect values in the Height column with randomly generated numbers between 150 and 180, as instructed.
+*Identified 84 missing values in College and 11 missing values in Salary.
+*Retained the missing values without replacement.
 4. Analysis Tasks:
 
 Task 1: Determine the distribution of employees across each team and calculate the percentage split relative to the total number of employees.
